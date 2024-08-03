@@ -1,0 +1,20 @@
+{
+  "posts": [
+    
+    {
+      "id": "4",
+      "name": "sm",
+      "body": "my child"
+    },
+    {
+      "id": "5",
+      "name": "aantu",
+      "body": "santhyagu"
+    },
+    {
+      "id": "6",
+      "name": "musraf",
+      "body": "i am a full stack developer\n"
+    }
+  ]
+}
